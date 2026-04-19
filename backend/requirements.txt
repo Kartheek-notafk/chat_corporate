@@ -5,3 +5,5 @@ sentence-transformers
 chromadb
 python-dateutil
 groq
+streamlit==1.52.0
+streamlit-autorefresh==1.0.1
